@@ -1,0 +1,12 @@
+body {
+    background-color: #9fcdff;
+}
+
+.cell {
+    height: 50px;
+    background-color: #0c5460;
+}
+
+.highlight {
+    background-color: #6f42c1;
+}

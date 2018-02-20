@@ -1,0 +1,15 @@
+{
+  "people" : [
+    {"name" : "Zech", "city" : "Zech walked me through each step and explained things that were confusing to me."},
+    {"name" : "Jake", "city" : "Shout out to Jake for working out our group challenge on the timer project."},
+    {"name" : "Kym", "city" : "Kym was helpful and patient."},
+    {"name" : "Joan", "city" : "Joan helped me better understand the mini challenge."},
+    {"name" : "Lori", "city" : "I think Lori is thinking like a programmer and asking great questions"},
+    {"name" : "Manny", "city" : "Santa Manny his patience and explanations helped me process the peer challenge"},
+    {"name" : "Ted", "city" : "Ted helped me to better understand my weekend challenge."},
+    {"name" : "Scott", "city" : "I like how you explain code."},
+    {"name" : "Mark", "city" : "Shout out to Mark! He's a great partner to work with."},
+    {"name" : "Koddie", "city" : "Thanks to Koddie for the new snacks!"}
+
+  ]
+}
